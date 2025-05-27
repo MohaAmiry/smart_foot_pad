@@ -8,7 +8,7 @@ the insole is invented using multiple sensors integrated into arduino uno and co
 The risk factor (foot state) is calculated through an invented formula that normalizes the values of temperature, humidity, oxygenation to be "+-1", where 1 is the threshold.
 
 # Features
-    1- Monitor foot state via bluetooth (temperature, pressure, humidity).
+    1- Monitor foot state via bluetooth (temperature, Oxygenation, humidity).
     2- history of the recorded state in daily bases.
     3- daily pedometer.
     4- local notifications for critical states.
